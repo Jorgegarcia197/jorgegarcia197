@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jorge-garc%C3%ADa-serna-7a756484/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-garcia-serna" height="30" width="40" /></a>
-<a href="https://instagram.com/jorgegarcia97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgegarcia97" height="30" width="40" /></a>
+<a href="https://instagram.com/jorgegs1497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgegarcia97" height="30" width="40" /></a>
 <a href="https://vsco.co/jorgegarcia197/gallery" target="blank"><img align="center" src="./vsco.svg" alt="jorgegarcia97" height="30" width="40" /></a>
 </p>
 
