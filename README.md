@@ -11,14 +11,21 @@
 
 ### 🔍 Quick Facts About Me
 
-- 🔭 I’m currently working @Softtek within the Innovation Team
-- 🌱 I’m currently learning: Time Series Anomaly Detection and Forecasting
-- 👀 I want to deepen my knowledge in: FastAPI and Web Development
-- 🤔 I’m looking for help with: AIOps and Big Data Streaming
-- 💬 Ask me about: Python, Azure, Serverless Architectures, Azure Functions, Docker
-- 📫 How to reach me: jorge.garciaserna97@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m passionate about Formula 1 and FPS Games
+🔭 I’m currently working at Softtek as a Software Engineer leading AI-driven projects in the Innovation Team
+
+🌱 I’m currently focused on advancing my knowledge in Time Series Forecasting, LLMs, and Retrieval-Augmented Generation (RAG) architectures
+
+👀 I’m eager to explore advanced FastAPI architectures, Next.js development, and SEO optimization for AI-powered web apps
+
+🤝 I’m open to collaborating on projects involving Generative AI, LLMOps, and intelligent web platforms
+
+💬 Ask me about: Python, Azure Functions, Serverless Architectures, Prompt Engineering, LLMs, LLMOps, Computer Vision, and Dockerized ML Pipelines
+
+📫 Reach out anytime via email → jorge.garciaserna97@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’m a huge Formula 1 fan and love competing in FPS games to stay sharp and focused
 
 ---
 
